@@ -87,7 +87,3 @@
 #### MySQL for the Database
 <br>
 
-## Documentation
-
-### [Please visit my project's wiki to see the documentation.](https://github.com/shantam-verma/Library-Management-System-Java/wiki)
-
